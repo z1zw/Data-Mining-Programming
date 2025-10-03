@@ -2,7 +2,7 @@
 
 > Brain MRI edge histograms & HOG · Tweet Count/TF-IDF · PCA(→2D) · Visual separability analysis  
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/z1zw/programming-assignment-1-data-preparation-and-und)  
+[![Open in Kaggle](https://www.kaggle.com/code/firstbuildzw/programming-assignment-1-data-preparation-and-und)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/z1zw/Data-Mining-Programming/blob/main/programming-assignment-1-data-preparation-and-und.ipynb)  
 
 [![Stars](https://img.shields.io/github/stars/z1zw/Data-Mining-Programming?style=flat-square)](https://github.com/z1zw/Data-Mining-Programming/stargazers)
@@ -30,15 +30,6 @@ Data-Mining-Programming/
 │── LICENSE
 │── README.md
 
-
----
-
-## 🚀 Quick Start
-
-### ▶️ Run on Kaggle
-Click the badge below to open and run directly in Kaggle:  
-
-[![Open in Kaggle]([https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/z1zw/programming-assignment-1-data-preparation-and-und](https://www.kaggle.com/code/firstbuildzw/programming-assignment-1-data-preparation-and-und))
 
 ---
 
