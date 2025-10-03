@@ -19,19 +19,6 @@
 
 ---
 
-## 📂 Project Structure
-Data-Mining-Programming/
-│── data/ # Datasets
-│ ├── brain-tumor-mri-dataset/
-│ └── student-5/
-│── programming-assignment-1-data-preparation-and-und.ipynb # Main Jupyter Notebook
-│── requirements.txt
-│── LICENSE
-│── README.md
-
-
----
-
 ### 💻 Run Locally
 1. Clone the repo:
    ```bash
