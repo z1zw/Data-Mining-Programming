@@ -19,6 +19,7 @@
 - **Conclusion**: No perfectly separable clusters, strong overlaps between classes  
 
 ---
+
 ## 📂 Project Structure
 Data-Mining-Programming/
 │── data/ # Datasets
@@ -28,6 +29,7 @@ Data-Mining-Programming/
 │── requirements.txt
 │── LICENSE
 │── README.md
+
 
 ---
 
