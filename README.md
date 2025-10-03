@@ -38,7 +38,7 @@ Data-Mining-Programming/
 ### ▶️ Run on Kaggle
 Click the badge below to open and run directly in Kaggle:  
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/z1zw/programming-assignment-1-data-preparation-and-und)
+[![Open in Kaggle]([https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/z1zw/programming-assignment-1-data-preparation-and-und](https://www.kaggle.com/code/firstbuildzw/programming-assignment-1-data-preparation-and-und))
 
 ---
 
